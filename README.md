@@ -1,7 +1,11 @@
+<div style="background-color:#0b0b0b; padding:25px; border-radius:12px;">
+
 #  Hi, I'm Okonta Victor  
 
+<span style="color:#e5e5e5;">
 I am a Full Stack Developer focused on building web and mobile applications that solve real problems. I work with businesses and individuals to deliver reliable and scalable digital solutions.  
 You are welcome to connect if you need support with web development, mobile applications, or backend systems.
+</span>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:7f1d1d&height=240&section=header&text=Full%20Stack%20Developer&fontSize=48&fontColor=ffffff" />
@@ -11,12 +15,12 @@ You are welcome to connect if you need support with web development, mobile appl
   <img src="https://readme-typing-svg.herokuapp.com?color=DC2626&size=30&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+%26+Mobile+Apps;React+%7C+Node.js+%7C+APIs;Turning+Ideas+Into+Products;Open+to+Remote+Opportunities" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ysmceo&color=7f1d1d&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/ysmceo?label=Follow&style=for-the-badge&color=111111"/>
 </p>
+
+</div>
 
 ---
 
