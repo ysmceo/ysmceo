@@ -1,0 +1,68 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="1200" height="1500" fill="#ffffff"></rect>
+
+<!-- Header -->
+<rect width="1200" height="180" fill="#d62828"></rect>
+<text x="600" y="80" font-size="48" fill="white" text-anchor="middle" font-family="Arial" font-weight="bold">
+QUINO CAREERS
+</text>
+<text x="600" y="120" font-size="22" fill="white" text-anchor="middle" font-family="Arial">
+Career Growth | CV | LinkedIn Optimization
+</text>
+<text x="600" y="155" font-size="18" fill="white" text-anchor="middle" font-family="Arial">
+www.quinocareers.com
+</text>
+
+<!-- Title -->
+<text x="600" y="240" font-size="28" fill="#333" text-anchor="middle" font-family="Arial" font-weight="bold">
+PROFESSIONAL CAREER SERVICES
+</text>
+
+<!-- Card 1 -->
+<rect x="100" y="300" width="1000" height="220" fill="#f1f1f1" rx="15"></rect>
+<text x="600" y="350" font-size="26" fill="#d62828" text-anchor="middle" font-family="Arial" font-weight="bold">
+ONE-ON-ONE CAREER REVIEW
+</text>
+<text x="600" y="390" font-size="24" fill="#000" text-anchor="middle" font-family="Arial">
+₦20,000
+</text>
+<text x="600" y="430" font-size="18" fill="#333" text-anchor="middle" font-family="Arial">
+CV &amp; LinkedIn Review • Gap Analysis • Job Positioning • Action Plan
+</text>
+
+<!-- Card 2 -->
+<rect x="100" y="560" width="1000" height="220" fill="#ffffff" stroke="#d62828" stroke-width="3" rx="15"></rect>
+<text x="600" y="610" font-size="26" fill="#d62828" text-anchor="middle" font-family="Arial" font-weight="bold">
+CV &amp; PROFILE REVAMP PACKAGE
+</text>
+<text x="600" y="650" font-size="24" fill="#000" text-anchor="middle" font-family="Arial">
+₦40,000
+</text>
+<text x="600" y="690" font-size="18" fill="#333" text-anchor="middle" font-family="Arial">
+Full CV • LinkedIn Optimization • Cover Letter • Role Targeting
+</text>
+
+<!-- Card 3 -->
+<rect x="100" y="820" width="1000" height="220" fill="#f1f1f1" rx="15"></rect>
+<text x="600" y="870" font-size="26" fill="#d62828" text-anchor="middle" font-family="Arial" font-weight="bold">
+PREMIUM CAREER COACHING (6 WEEKS)
+</text>
+<text x="600" y="910" font-size="24" fill="#000" text-anchor="middle" font-family="Arial">
+₦100,000
+</text>
+<text x="600" y="950" font-size="18" fill="#333" text-anchor="middle" font-family="Arial">
+Weekly Sessions • Job Strategy • Application Support • Ongoing Guidance
+</text>
+
+<!-- Footer -->
+<rect y="1100" width="1200" height="150" fill="#444"></rect>
+<text x="600" y="1160" font-size="20" fill="white" text-anchor="middle" font-family="Arial">
+ATS-Optimized CVs | Practical Guidance | Real Results
+</text>
+<text x="600" y="1200" font-size="22" fill="white" text-anchor="middle" font-family="Arial" font-weight="bold">
+Send a message to get started
+</text>
+
+</svg>
