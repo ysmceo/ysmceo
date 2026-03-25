@@ -80,12 +80,12 @@ Focused on performance, usability, and delivering real-world solutions that driv
 ---
 
 ## 🔴 Creative Hub — Digital Growth Platform  
-👉 https://creative-hub-indol.verve.app  
+👉https://creative-hub-indol.vercel.app  
 
 ---
 
 ## 🔴 Aura Salon — Business Web Platform  
-👉 https://aura-salon-chi.verve  
+👉 https://aura-salon-chi.vercel.app  
 
 ---
 
